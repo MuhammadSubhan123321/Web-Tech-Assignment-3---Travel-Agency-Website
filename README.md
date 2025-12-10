@@ -14,7 +14,7 @@
 
 📌 **FontAwesome Integration**– Uses vector icons for social media links, feature lists, and contact info.
 
-🌐 **Live Demo**- The project is hosted live on Surge: 🔗 [Insert Your Surge Link Here]
+🌐 **Live Demo**- The project is hosted live on Surge: 🔗 https://travel_agency_muhammadsubhan_f2022266767.surge.sh/
 
 🛠️ **Technologies Used HTML5** – Semantic structure of the web pages (Home, About, Contact).
 
